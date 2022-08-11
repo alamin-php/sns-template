@@ -332,16 +332,16 @@ a.box-btn:hover i.fa {
 
 /* Header Area */
 .header.header-fixed.sticky {
-	background-color: #fff;
-	box-shadow: 0 1px 8px 3px rgba(0, 0, 0, 0.05);
-	-webkit-transition: .3s;
-	transition: .3s;
-	padding: 5px 0;
-	position: fixed;
-	z-index: 999;
-	width: 100%;
-	left: 0;
-	top: 0;
+    background-color: #fff;
+    box-shadow: rgb(0 0 0 / 5%) 0px 6px 24px 0px, rgb(0 0 0 / 8%) 0px 0px 0px 1px;
+    -webkit-transition: .3s;
+    transition: .3s;
+    padding: 5px 0;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    left: 0;
+    top: 0;
 }
 .mainmenu ul li.current a, .mainmenu ul li a:hover {
 	color: #635CDB;
